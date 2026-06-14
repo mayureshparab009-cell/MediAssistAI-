@@ -19,7 +19,8 @@ The user interface features a premium dark-themed **glassmorphic design** utiliz
 * **Symptom Diary:** Input physical symptoms, severity ratings (1-10 slider), and monitor severity trends on an SVG coordinates line graph.
 * **Vitals Tracker:** Record key health vitals (systolic/diastolic blood pressure, blood glucose levels, and heart pulse rate) and plot custom multi-line SVG charts.
 * **AI Medical Companion:** Conversational chat interface to ask queries about drug summaries, side effects, and warning notifications on clinical emergencies.
-
+  
+## 🎯 SDG alignment & Problem Statement * **The Crisis:** Medication non-adherence accounts for 125,000 avoidable deaths yearly and nearly 10% of hospital admissions. Elderly and chronic patients struggle to follow scheduled dosages and keep track of vital indicators. * **The Solution:** MediAssistAI solves this by introducing a digital interactive checklist, tracking adherence scores, logging vitals history, keeping logs for doctors, and raising medical literacy using natural language chatbots.
 ---
 
 
@@ -32,3 +33,8 @@ MediAssistAI_Web/
 ├── README.md            # Hosting guide
 └── zip_web.py           # Zipping script to generate MediAssistAI_Web.zip
 ```
+
+## 👥 Team & Submission Details * **Project Name:** MediAssistAI *
+**SDG Target:** Goal 3 (Good Health and Well-being) *
+**Academic Submission:** B.E COMPUTER SCIENCE AND ENGINEERING *
+**Developer:** Mayuresh Parab.
